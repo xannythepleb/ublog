@@ -32,9 +32,7 @@ module.exports = {
     },
   ],
   relays: [
-    "wss://relay.snort.social",
     "wss://nostr-pub.wellorder.net",
-    "wss://relay.damus.io",
     "wss://nos.lol",
     "wss://relay.nostrplebs.com",
     "wss://relay.2nodez.com",
@@ -52,5 +50,6 @@ module.exports = {
     // "wss://nostr-relay.wlvs.space",
     // "wss://nostr.zebedee.cloud",
     "wss://relay.nostr.info",
+    "wss://relay.damus.io",
   ],
 };
