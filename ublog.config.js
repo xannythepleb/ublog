@@ -32,8 +32,8 @@ module.exports = {
     },
   ],
   relays: [
-    "wss://nostr-pub.wellorder.net",
     "wss://nostr.mom",
+    "wss://nostr-pub.wellorder.net",
     "wss://nos.lol",
     "wss://relay.nostr.band",
     "wss://relay.nostr.wirednet.jp",
