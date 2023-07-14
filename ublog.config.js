@@ -65,7 +65,7 @@ module.exports = {
     "wss://nostr.lu.ke",
     "wss://nostr.milou.lol",
     "wss://relay-verified.deschooling.us",
-    "wss://nostr.fractalized.ovh",
+    //"wss://nostr.fractalized.ovh",
     // "wss://nostr.nostrelay.org",
     // "wss://relay.nostr.ch",
     // "wss://nostr.bitcoiner.social",
