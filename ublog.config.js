@@ -38,6 +38,7 @@ module.exports = {
     "wss://nostr.mom",
     "wss://relay.nostr.wirednet.jp",
     "wss://offchain.pub",
+    "wss://nostr.wine",
     //"wss://nostr.oxtr.dev",
     "wss://relay.f7z.io",
     // "wss://nostr.sethforprivacy.com",
